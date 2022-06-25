@@ -2,9 +2,9 @@ Rencana Pelatihan RPL 2022
 - Programming Language
   * Javascript
   * PHP
-  *Golang
+  * Python
 - Framework
   * Javascript
     ^ React
   * PHP
-    ^ Codeigniter
+    ^ Lavarel
